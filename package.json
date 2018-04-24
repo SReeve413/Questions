@@ -8,11 +8,15 @@
   "dependencies": {
     "auth0-js": "^9.4.2",
     "bootstrap": "^3.3.7",
-    "react": "^15.5.4",
+    "firebase": "^4.13.1",
+    "lodash": "^4.17.10",
+    "react": "^15.6.2",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
     "react-router": "^4.1.1",
-    "react-router-dom": "^4.1.1"
+    "react-router-dom": "^4.1.1",
+    "save": "^2.3.2",
+    "trim": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
